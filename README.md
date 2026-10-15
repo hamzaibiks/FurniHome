@@ -3,7 +3,7 @@
 A Windows desktop application developed in C# to manage, calculate, and organize student project grades efficiently. Built with a focus on clean multi-form navigation and seamless data management.
 
 
-### 🚀 Features
+### Features
 * **Student & Grade Management:** Easily input and track project scores.
 * **Data Grid Integration:** Clean, organized viewing of student records.
 * **Portable Database:** Utilizes a lightweight SQLite database (`JuryGradingDB.sqlite`) so no heavy server installation is required.
